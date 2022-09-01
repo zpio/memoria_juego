@@ -1,0 +1,20 @@
+:root {
+  --bg: #fafafa;
+  --font: "Archivo", sans-serif;
+  --font-display: "Archivo Narrow", sans-serif;
+  --hotpink: #22aec3; /*#e94057*/
+  --orange: #fdbb2d; /*#f27121*/
+  --gradient: linear-gradient(35deg, var(--orange), var(--hotpink));
+}
+
+*{
+  /*padding y border son parte en alto y acho total del div*/
+  box-sizing: border-box; 
+}
+
+body {
+  margin: auto; /*se eliminan los margenes*/
+  min-height: 100vh; /*100vh = altura del viewport*/
+  background: var(--bg);
+  font-family: var(--font);
+}
