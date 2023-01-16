@@ -1,6 +1,6 @@
 # Juego de Memoria 
 
-Juego de Memoria (Matching game) con Javascript, HTLM y CSS
+Juego de Memoria con Javascript, HTLM y CSS
 
 https://appmemoria.netlify.app/
 
